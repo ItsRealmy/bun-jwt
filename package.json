@@ -1,0 +1,16 @@
+{
+  "name": "bun-jwt",
+  "module": "index.js",
+  "type": "module",
+  "version": "1.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "jose": "^5.5.0"
+  }
+}
